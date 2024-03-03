@@ -1,4 +1,4 @@
-<p align="left">Hello! I am Brenda Azeredo, a 23-year-old polyglot. Currently honing my skills in full stack development, I am eager to contribute to exciting projects. Proficient in JavaScript, Python, TypeScript, Angular and etc., just like databases such as MongoDB and PostgreSQL, I want to build something extraordinary!</p>
+<p align="left">Hello! I am Brenda Azeredo, a 24-year-old polyglot. Currently honing my skills in full stack development, I am eager to contribute to exciting projects. Proficient in JavaScript, Python, TypeScript, Angular and etc., just like databases such as MongoDB and PostgreSQL, I want to build something extraordinary!</p>
 
 **Main stacks**
 
