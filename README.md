@@ -1,10 +1,8 @@
-<img src="https://images.vexels.com/media/users/3/283663/isolated/preview/abda7a0cf347389ef2da7a2b3bd1f6cb-retro-purple-computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="pc">
-
 <p align="left">Hello! I am Brenda Azeredo, a 23-year-old polyglot. Currently honing my skills in Full stack and mobile development, I am eager to contribute to exciting projects. Proficient in JavaScript, TypeScript, Next.js, React.js, React Native, Redux, TailwindCSS and databases such as Firebase and PostgreSQL, I want to build something extraordinary!</p>
 
 **Main stacks**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Languages and Frameworks**
